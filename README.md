@@ -8,7 +8,7 @@ A structured learning path covering all 71 LeetCode topics with 1500+ problems o
 
 ##### **Foundation & Basic Operations**
 ###### **Basic Array Manipulation:**
-* [ ] [#1 - Two Sum](http://lcid.cc/1)
+* [x] [#1 - Two Sum](http://lcid.cc/1)
 * [ ] [#26 - Remove Duplicates from Sorted Array](http://lcid.cc/26)
 * [ ] [#27 - Remove Element](http://lcid.cc/27)
 * [ ] [#88 - Merge Sorted Array](http://lcid.cc/88)
