@@ -11,7 +11,7 @@ A structured learning path covering all 71 LeetCode topics with 1500+ problems o
 * [x] [#1 - Two Sum](http://lcid.cc/1)
 * [x] [#26 - Remove Duplicates from Sorted Array](http://lcid.cc/26)
 * [x] [#27 - Remove Element](http://lcid.cc/27)
-* [ ] [#88 - Merge Sorted Array](http://lcid.cc/88)
+* [x] [#88 - Merge Sorted Array](http://lcid.cc/88)
 * [ ] [#66 - Plus One](http://lcid.cc/66)
 * [ ] [#118 - Pascal's Triangle](http://lcid.cc/118)
 * [ ] [#119 - Pascal's Triangle II](http://lcid.cc/119)
