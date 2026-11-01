@@ -13,7 +13,7 @@ A structured learning path covering all 71 LeetCode topics with 1500+ problems o
 * [x] [#27 - Remove Element](http://lcid.cc/27)
 * [x] [#88 - Merge Sorted Array](http://lcid.cc/88)
 * [x] [#66 - Plus One](http://lcid.cc/66)
-* [ ] [#118 - Pascal's Triangle](http://lcid.cc/118)
+* [x] [#118 - Pascal's Triangle](http://lcid.cc/118)
 * [ ] [#119 - Pascal's Triangle II](http://lcid.cc/119)
 * [ ] [#169 - Majority Element](http://lcid.cc/169)
 * [ ] [#217 - Contains Duplicate](http://lcid.cc/217)
