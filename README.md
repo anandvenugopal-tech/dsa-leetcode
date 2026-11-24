@@ -15,7 +15,7 @@ A structured learning path covering all 71 LeetCode topics with 1500+ problems o
 * [x] [#66 - Plus One](http://lcid.cc/66)
 * [x] [#118 - Pascal's Triangle](http://lcid.cc/118)
 * [ ] [#119 - Pascal's Triangle II](http://lcid.cc/119)
-* [ ] [#169 - Majority Element](http://lcid.cc/169)
+* [x] [#169 - Majority Element](http://lcid.cc/169)
 * [x] [#217 - Contains Duplicate](http://lcid.cc/217)
 * [ ] [#219 - Contains Duplicate II](http://lcid.cc/219)
 * [ ] [#228 - Summary Ranges](http://lcid.cc/228)
